@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './Components/Header';
+import TinderCards from './Components/TinderCards';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       {/**HEader */}
       <Header />
       {/**Cards */}
+      <TinderCards/>
       {/**Footer */}
     </div>
   );
