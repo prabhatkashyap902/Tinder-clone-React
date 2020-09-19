@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    border-bottom: 1px solid #f9f9f9;
+    margin: 10px;
+}
+
+.tinder_img{
+    object-fit: contain;
+    height: 25px;
+}
